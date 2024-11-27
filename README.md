@@ -1,6 +1,6 @@
 ## Olá eu sou a Helen Yohanna, professora de programação e tecnologias!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenDellaRoveri&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenDellaRoveri&show_icons=true&theme=merko)
 
 Essas são as tecnologias que eu tenho praticado e estudado:
 
