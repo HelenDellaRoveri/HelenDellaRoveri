@@ -1,4 +1,8 @@
-## Oiii eu sou a Helen Yohanna, professora de programação e tecnologias!
+## Olá eu sou a Helen Yohanna, professora de programação e tecnologias!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenDellaRoveri&show_icons=true&theme=radical)
+
+Essas são as tecnologias que eu tenho praticado e estudado:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Helen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,10 +14,10 @@
 </div>
   
   ##
- 
+
+Minhas redes socias e meios de comunicação:
 <div> 
   <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/helen.yohanna/?next=%2F)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hydr.desenvolvedora@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/helen-yohanna-ventura-della-roveri-6a1aa3219]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
