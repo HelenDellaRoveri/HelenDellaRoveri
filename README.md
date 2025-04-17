@@ -45,7 +45,7 @@ Se quiser acompanhar os conteúdos que compartilho ou reutilizar nos seus estudo
 
 ## 🤝 Vamos nos conectar?
 
-- 💼 [LinkedIn]([https://linkedin.com)](https://www.linkedin.com/in/helen-yohanna-ventura-della-roveri-6a1aa3219/) 
+- 💼 [LinkedIn]([https://www.linkedin.com/in/helen-yohanna-ventura-della-roveri-6a1aa3219/]) 
 - 📧 Email: *hydr.estudante@gmail.com*
 
 ---
