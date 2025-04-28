@@ -1,5 +1,3 @@
-Claro! Aqui está a sua versão **resumida, moderna e sem emojis**, como pediu:
-
 ---
 
 # Olá, seja bem-vindo(a) ao meu GitHub!
