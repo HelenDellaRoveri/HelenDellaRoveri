@@ -16,14 +16,6 @@ Atividades práticas, exercícios e conteúdos didáticos sobre:
 - Desenvolvimento Web e de Aplicativos
 - Estruturação de projetos com foco em boas práticas
 
-**Materiais Complementares**  
-Slides, roteiros de aula e planos de ensino para tornar o aprendizado mais prático, acessível e dinâmico.
-
-**Projetos com Alunos**  
-Repositórios de projetos desenvolvidos em sala de aula, TCCs e feiras tecnológicas, aplicando ferramentas modernas e metodologias ágeis como SCRUM e XP.
-
----
-
 ## Tecnologias e Ferramentas
 
 - SQL Server, PostgreSQL, MySQL
